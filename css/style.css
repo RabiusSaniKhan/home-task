@@ -1,0 +1,31 @@
+.table-header-section {
+  height: 80px;
+  background-color: #F4F4F4;
+  border-bottom: 1px solid #EDEDEF;
+}
+.table-header-section p {
+  margin: 28px 15px;
+}
+.table-header-section .action-icons {
+  height: 80px;
+}
+.table-header-section .action-icons .action-item {
+  height: 80px;
+  width: 80px;
+  border-right: 1px solid #EDEDEF;
+}
+.table-header-section .action-icons .action-item i {
+  margin: 30px 33px;
+}
+.table-header-section .action-icons .action-item:last-child {
+  border-right: none;
+}
+
+table .activity-background {
+  background-color: #D4EDDA;
+  height: 100%;
+  text-align: center;
+  border-radius: 25px;
+}
+
+/*# sourceMappingURL=style.css.map */
